@@ -10679,6 +10679,12 @@ a.text-dark:hover {
         color: inherit;
         border-color: #dee2e6
     }
+    
+    /* My custom style classes: */
+    
+    .logo{
+        width:200px;
+        height:200px;
 }
 
 
